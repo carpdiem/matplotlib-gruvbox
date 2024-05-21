@@ -1,3 +1,5 @@
+#+title: All of the below is deprecated, but preserved for history. I'm going to be building off of this to incorporate both dark and light modes, and also include my own twists
+
 #+title: A gruvbox style for Matplotlib
 
 A simple, dark-background color style for the [[http://www.matplotlib.org][Matplotlib]] plotting
