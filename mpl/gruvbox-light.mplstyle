@@ -51,7 +51,7 @@ legend.labelcolor : 3c3836
 legend.borderpad : 0.2
 
 # LINES
-axes.prop_cycle : cycler('color', ['076678', '9d0006', '79740e', 'b57614', '8f3f71', 'af3a03', '427b58']) #hex colours quoted here for some reason
+axes.prop_cycle : cycler('color', ['076678', '9d0006', '79740e', 'b57614', '8f3f71', 'af3a03', '427b58', '458588', 'cc241d', '98971a', 'd79921', 'b16286', 'd65d0e', '689d6a']) #hex colours quoted here for some reason
 lines.linewidth : 0.5
 lines.markeredgecolor : 'none'
 
